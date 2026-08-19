@@ -6,24 +6,28 @@
 
 ### 🛠️ Tech Stack
 
-* ☕ Java
-* 🧩 Programación Orientada a Objetos (POO)
-* 🗄️ Bases de Datos & SQL
-* 📱 Android Studio
-* 🔧 Git & GitHub
+- ☕ **Java**
+- 🧩 **Programación Orientada a Objetos**
+- 🗄️ **Bases de Datos & SQL**
+- 📱 **Android Studio**
+- 🔧 **Git & GitHub**
 
 ### 🚀 Currently Learning
 
-* 📚 Desarrollo de software
-* 💻 Nuevas tecnologías y herramientas
-* 🌎 Inglés en constante aprendizaje
+- 📚 Desarrollo de software
+- 💻 Nuevas tecnologías y herramientas
+- 🌎 Inglés en constante aprendizaje
 
 ### 📂 Featured Projects
 
-* 🏦 **Banca Móvil**
-* 🗺️ **Mapa Zona Norte — Estado de México**
+- 🏦 **Banca Móvil**
+- 🗺️ **Mapa Zona Norte — Estado de México**
 
 ### 🎯 Career Goal
 
 Transformar conocimientos académicos en **soluciones tecnológicas prácticas** y continuar desarrollándome profesionalmente en el área de **Software Development**.
+
+### 📫 Contact
+
+📧 [kevinmarcial20@icloud.com](mailto:kevinmarcial20@icloud.com)
 
