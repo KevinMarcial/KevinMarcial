@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Kevin Marcial Nicolás
 
-<!--
-**KevinMarcial/KevinMarcial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **5.º semestre de Ingeniería en Sistemas Computacionales** en el **Tecnológico de Estudios Superiores de Jocotitlán (TESJo)**.
 
-Here are some ideas to get you started:
+💻 Enfocado en **desarrollo de software**, resolución de problemas y creación de soluciones tecnológicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+- ☕ Java
+- 🧩 Programación Orientada a Objetos
+- 🗄️ Bases de Datos & SQL
+- 📱 Android Studio
+- 🔧 Git & GitHub
+
+### 🚀 Actualmente
+- 📚 Fortaleciendo mis habilidades en desarrollo de software.
+- 💻 Desarrollando proyectos académicos y personales.
+- 🌎 Estudiando inglés continuamente.
+
+### 📂 Proyectos destacados
+- 🏦 **Banca Móvil**
+- 🗺️ **Mapa Zona Norte — Estado de México**
+
+> 🎯 Mi objetivo es transformar conocimientos académicos en soluciones tecnológicas prácticas y seguir creciendo profesionalmente en el desarrollo de software.
